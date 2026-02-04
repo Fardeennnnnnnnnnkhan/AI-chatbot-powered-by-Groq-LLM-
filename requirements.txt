@@ -1,6 +1,13 @@
-langchain
+langchain==0.2.16
+langchain-core==0.2.38
+langchain-community==0.2.16
+langchain-groq==0.1.6
+streamlit==1.32.2
 python-dotenv
-langchain_community
+duckduckgo-search
+arxiv
+wikipedia
+python-dotenv
 pypdf
 bs4
 langchain-text-splitters
@@ -11,11 +18,8 @@ faiss-cpu
 langchain_chroma
 duckdb
 pandas
-langchain_core 
 numpy
-streamlit
 langchain_ollama
-langchain-groq
 duckduckgo-search
 pymupdf
 arxiv 
